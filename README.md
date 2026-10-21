@@ -41,6 +41,7 @@ Perplexity Computer's answer is a finished deliverable on its own cloud. The ope
 - [A cost calculator you can run](https://github.com/ArtemShatokhin/perplexity-computer-cost-calculator): the same month of agent work priced on Perplexity Computer and on Kortix, with every rate linked to the vendor page it came from.
 - [Perplexity Computer's plans and credits](https://opensourceperplexitycomputer.com/perplexity-computer-pricing), and what each plan's credits buy.
 - [What SPACE is and what it is not](https://opensourceperplexitycomputer.com/perplexity-space-sandbox): a published sandbox, an unpublished agent.
+- [What Perplexity Computer examples look like mid-run](https://opensourceperplexitycomputer.com/perplexity-computer-examples): a gallery of finished apps, and the branch, diff and review an open-source agent leaves behind.
 - [The sourced comparison](https://opensourceperplexitycomputer.com/alternatives) this list summarises, and the write-up with inline citations at [kortix.com/blog/open-source-perplexity-computer](https://kortix.com/blog/open-source-perplexity-computer).
 
 Corrections are welcome as pull requests, with the source.
